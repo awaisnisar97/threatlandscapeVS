@@ -1,0 +1,7 @@
+| Threat Actor     | Description | Motivation | Potential Impact | Mitigation Strategies |
+|:-----------------|:------------|:-----------|:-----------------|:----------------------|
+| Cyber Criminals  | Exploiting vulnerabilities in HealthHub Mobile, CareConnect360, and MedTrack Pro for financial gain. | Financial Gain | Data Breach, Financial Loss | Employee Training, Anti-Malware Software, Regular Backups |
+| Nation States    | Targeting sensitive health data for espionage through sophisticated cyber attacks. | Political, Economic, Military | Espionage, Infrastructure Disruption | Cybersecurity Frameworks, International Cooperation |
+| Terrorist Groups | Disrupting healthcare services and causing public panic by attacking critical systems. | Ideological | Public Safety Risks, Fear and Panic | Intelligence Sharing, Counter-Terrorism Measures |
+| Insider Threats  | Misusing access to sensitive data for personal gain or revenge. | Revenge, Personal Gain | Data Theft, Sabotage | Access Controls, Monitoring, Regular Audits |
+| Thrill Seekers   | Attacking systems for excitement, potentially causing disruptions and unauthorized access. | Curiosity, Recognition | System Disruptions, Unauthorized Access | Robust Security Measures, Legal Actions |
